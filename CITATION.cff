@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it."
+title: "PP-SPEC-045: Proof Protocol Mapping to ISO/IEC 42001 AI Management Systems"
+type: software
+authors:
+  - family-names: "Ellrod"
+    given-names: "Craig"
+version: "0.1"
+date-released: "2026-10-01"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/proofprotocol/PP-SPEC-045-iso-iec-42001-mapping"
+abstract: "An independently authored Proof Protocol interoperability mapping for ISO/IEC 42001."
+keywords:
+  - Proof Protocol
+  - Proof of Efficacy
+  - evidence
+  - interoperability
